@@ -1,0 +1,13 @@
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CAPTCHA Solver.exe.config
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CAPTCHA Solver.exe
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CAPTCHA Solver.pdb
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CAPTCHA Solver.xml
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA Solver.vbprojAssemblyReference.cache
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA_Solver.Dialog1.resources
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA_Solver.MainWindow.resources
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA_Solver.Resources.resources
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA Solver.vbproj.GenerateResource.cache
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA Solver.vbproj.CoreCompileInputs.cache
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA Solver.exe
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA Solver.xml
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CAPTCHA Solver.pdb
