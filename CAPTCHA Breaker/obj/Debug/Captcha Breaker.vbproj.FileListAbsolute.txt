@@ -1,0 +1,21 @@
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CaptchaBreaker.Dialog1.resources
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CaptchaBreaker.MainWindow.resources
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CaptchaBreaker.Resources.resources
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\Captcha Breaker.vbproj.GenerateResource.cache
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\Captcha Breaker.vbproj.CoreCompileInputs.cache
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CaptchaBreaker.exe.config
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CaptchaBreaker.exe
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CaptchaBreaker.pdb
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\bin\Debug\CaptchaBreaker.xml
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CaptchaBreaker.exe
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CaptchaBreaker.xml
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\CaptchaBreaker.pdb
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Solver\obj\Debug\Captcha Breaker.vbprojAssemblyReference.cache
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Breaker\bin\Debug\CaptchaBreaker.exe.config
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Breaker\obj\Debug\CaptchaBreaker.exe
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Breaker\obj\Debug\CaptchaBreaker.xml
+D:\Krunal\Personal\_01_CodeFest\_2CAptch\CAPTCHA Solver\CAPTCHA Breaker\obj\Debug\CaptchaBreaker.pdb
+D:\Krunal\Personal\_01_CodeFest\CAPTCHA Breaker\CAPTCHA Breaker\bin\Debug\CaptchaBreaker.exe.config
+D:\Krunal\Personal\_01_CodeFest\CAPTCHA Breaker\CAPTCHA Breaker\obj\Debug\CaptchaBreaker.exe
+D:\Krunal\Personal\_01_CodeFest\CAPTCHA Breaker\CAPTCHA Breaker\obj\Debug\CaptchaBreaker.xml
+D:\Krunal\Personal\_01_CodeFest\CAPTCHA Breaker\CAPTCHA Breaker\obj\Debug\CaptchaBreaker.pdb
